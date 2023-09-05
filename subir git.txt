@@ -1,0 +1,20 @@
+git init
+
+enlace queda el git
+
+git status
+
+git add .
+
+git status
+
+git commit -m "nomre del proyecto"
+
+git push origin master
+
+
+clonar o descargar proyecto
+
+git init
+
+git clone y enlace
